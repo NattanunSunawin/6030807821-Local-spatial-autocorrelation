@@ -1,0 +1,1 @@
+# 6030807821-Local-spatial-autocorrelation
